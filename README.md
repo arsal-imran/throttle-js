@@ -1,1 +1,1 @@
-#Throlle-js | Throttling Start Js Journey
+# Throlle-js | Throttling Start Js Journey
